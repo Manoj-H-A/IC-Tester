@@ -46,7 +46,7 @@ Common select lines ensure synchronized input combinations.
   - Input A = Y1
   - Input B = Y2
 - Outputs are:
-
+  Z1, Z2, Z3, Z4
 
 
 ---
